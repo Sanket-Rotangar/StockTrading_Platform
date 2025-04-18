@@ -1,0 +1,52 @@
+{
+  "sessions": [
+    {
+      "id": "S001",
+      "name": "Session 1",
+      "story": 1,
+      "startTime": "2025-03-08T03:47:11.212Z",
+      "endTime": "2025-03-08T04:03:35.619Z",
+      "status": "completed"
+    },
+    {
+      "id": "S002",
+      "name": "Session 2",
+      "story": 2,
+      "startTime": "2025-03-08T04:03:35.619Z",
+      "endTime": "2025-03-08T04:14:10.645Z",
+      "status": "completed"
+    },
+    {
+      "id": "S003",
+      "name": "Session 3",
+      "story": 3,
+      "startTime": "2025-03-08T04:14:10.645Z",
+      "endTime": "2025-03-08T04:25:43.249Z",
+      "status": "completed"
+    },
+    {
+      "id": "S004",
+      "name": "Session 4",
+      "story": 4,
+      "startTime": "2025-03-08T04:25:43.249Z",
+      "endTime": "2025-03-08T04:36:06.694Z",
+      "status": "completed"
+    },
+    {
+      "id": "S005",
+      "name": "Session 5",
+      "story": 5,
+      "startTime": "2025-03-08T04:36:06.694Z",
+      "endTime": "2025-03-08T04:45:40.170Z",
+      "status": "completed"
+    },
+    {
+      "id": "S006",
+      "name": "Session 6",
+      "story": 6,
+      "startTime": "2025-03-08T04:45:40.170Z",
+      "endTime": "2025-03-08T04:55:40.170Z",
+      "status": "active"
+    }
+  ]
+}

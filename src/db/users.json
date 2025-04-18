@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "U002",
+      "name": "CITI CHAMPS",
+      "balance": 1013000,
+      "stocks": [],
+      "type": "user"
+    },
+    {
+      "id": "U003",
+      "name": "SILVER STOCKS",
+      "balance": 962050,
+      "stocks": [
+        {
+          "id": "HAVELLS001",
+          "name": "Havells",
+          "quantity": 30,
+          "averagePrice": 1550,
+          "totalCost": 46500,
+          "isShort": false
+        }
+      ],
+      "type": "user"
+    },
+    {
+      "id": "U004",
+      "name": "CAPITAL CREW",
+      "balance": 1105350,
+      "stocks": [],
+      "type": "user"
+    },
+    {
+      "id": "U005",
+      "name": "GOLD RUSH",
+      "balance": 1006500,
+      "stocks": [],
+      "type": "user"
+    },
+    {
+      "id": "U006",
+      "name": "MONEY TREES",
+      "balance": 991500,
+      "stocks": [],
+      "type": "user"
+    },
+    {
+      "id": "U007",
+      "name": "FINANCE FUSIONS",
+      "balance": 1062700,
+      "stocks": [],
+      "type": "user"
+    },
+    {
+      "id": "U008",
+      "name": "FORTUNE FUNDERS",
+      "balance": 1033000,
+      "stocks": [],
+      "type": "user"
+    },
+    {
+      "id": "U009",
+      "name": "GREEN VAULT",
+      "balance": 1000000,
+      "stocks": [],
+      "type": "user"
+    }
+  ]
+}

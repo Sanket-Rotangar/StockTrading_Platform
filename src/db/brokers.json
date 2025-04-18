@@ -1,0 +1,30 @@
+{
+  "brokers": [
+    {
+      "id": "B001",
+      "name": "Alpha Securities",
+      "balance": 200000,
+      "admin": "true"
+    },
+    {
+      "id": "B002",
+      "name": "Zerodha",
+      "balance": 1000000000000000
+    },
+    {
+      "id": "B003",
+      "name": "Groww",
+      "balance": 1000000000000000
+    },
+    {
+      "id": "B004",
+      "name": "UpStocks",
+      "balance": 1000000000000000
+    },
+    {
+      "id": "B005",
+      "name": "AngelOne",
+      "balance": 1000000000000000
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "stocks": [
+    {
+      "id": "ACC001",
+      "name": "ACC",
+      "initialPrice": 1455,
+      "currentPrice": 1455,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 1455
+        },
+        {
+          "sessionId": "S002",
+          "price": 1355
+        },
+        {
+          "sessionId": "S003",
+          "price": 1350
+        },
+        {
+          "sessionId": "S004",
+          "price": 1355
+        },
+        {
+          "sessionId": "S005",
+          "price": 1360
+        },
+        {
+          "sessionId": "S006",
+          "price": 1450
+        },
+        {
+          "sessionId": "S007",
+          "price": 1450
+        },
+        {
+          "sessionId": "S008",
+          "price": 1400
+        },
+        {
+          "sessionId": "S009",
+          "price": 1440
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "AIRTEL001",
+      "name": "Airtel",
+      "initialPrice": 1400,
+      "currentPrice": 1400,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 1400
+        },
+        {
+          "sessionId": "S002",
+          "price": 1420
+        },
+        {
+          "sessionId": "S003",
+          "price": 1400
+        },
+        {
+          "sessionId": "S004",
+          "price": 1520
+        },
+        {
+          "sessionId": "S005",
+          "price": 1525
+        },
+        {
+          "sessionId": "S006",
+          "price": 1400
+        },
+        {
+          "sessionId": "S007",
+          "price": 1390
+        },
+        {
+          "sessionId": "S008",
+          "price": 1390
+        },
+        {
+          "sessionId": "S009",
+          "price": 1435
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "DLF001",
+      "name": "DLF",
+      "initialPrice": 740,
+      "currentPrice": 740,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 740
+        },
+        {
+          "sessionId": "S002",
+          "price": 715
+        },
+        {
+          "sessionId": "S003",
+          "price": 710
+        },
+        {
+          "sessionId": "S004",
+          "price": 715
+        },
+        {
+          "sessionId": "S005",
+          "price": 760
+        },
+        {
+          "sessionId": "S006",
+          "price": 765
+        },
+        {
+          "sessionId": "S007",
+          "price": 725
+        },
+        {
+          "sessionId": "S008",
+          "price": 730
+        },
+        {
+          "sessionId": "S009",
+          "price": 735
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "EICHERMOT001",
+      "name": "Eicher Motors",
+      "initialPrice": 4650,
+      "currentPrice": 4650,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 4650
+        },
+        {
+          "sessionId": "S002",
+          "price": 4610
+        },
+        {
+          "sessionId": "S003",
+          "price": 4600
+        },
+        {
+          "sessionId": "S004",
+          "price": 4620
+        },
+        {
+          "sessionId": "S005",
+          "price": 4750
+        },
+        {
+          "sessionId": "S006",
+          "price": 4800
+        },
+        {
+          "sessionId": "S007",
+          "price": 4450
+        },
+        {
+          "sessionId": "S008",
+          "price": 4450
+        },
+        {
+          "sessionId": "S009",
+          "price": 4600
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "HAVELLS001",
+      "name": "Havells",
+      "initialPrice": 1550,
+      "currentPrice": 1550,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 1550
+        },
+        {
+          "sessionId": "S002",
+          "price": 1690
+        },
+        {
+          "sessionId": "S003",
+          "price": 1750
+        },
+        {
+          "sessionId": "S004",
+          "price": 1760
+        },
+        {
+          "sessionId": "S005",
+          "price": 1733
+        },
+        {
+          "sessionId": "S006",
+          "price": 1730
+        },
+        {
+          "sessionId": "S007",
+          "price": 1530
+        },
+        {
+          "sessionId": "S008",
+          "price": 1540
+        },
+        {
+          "sessionId": "S009",
+          "price": 1542
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "HEROMOTO001",
+      "name": "Hero Motocorp",
+      "initialPrice": 4160,
+      "currentPrice": 4160,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 4160
+        },
+        {
+          "sessionId": "S002",
+          "price": 4110
+        },
+        {
+          "sessionId": "S003",
+          "price": 4100
+        },
+        {
+          "sessionId": "S004",
+          "price": 4080
+        },
+        {
+          "sessionId": "S005",
+          "price": 4059
+        },
+        {
+          "sessionId": "S006",
+          "price": 4042
+        },
+        {
+          "sessionId": "S007",
+          "price": 4050
+        },
+        {
+          "sessionId": "S008",
+          "price": 4060
+        },
+        {
+          "sessionId": "S009",
+          "price": 4120
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "HINDALCO001",
+      "name": "Hindalco",
+      "initialPrice": 620,
+      "currentPrice": 620,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 620
+        },
+        {
+          "sessionId": "S002",
+          "price": 580
+        },
+        {
+          "sessionId": "S003",
+          "price": 590
+        },
+        {
+          "sessionId": "S004",
+          "price": 595
+        },
+        {
+          "sessionId": "S005",
+          "price": 587
+        },
+        {
+          "sessionId": "S006",
+          "price": 585
+        },
+        {
+          "sessionId": "S007",
+          "price": 602
+        },
+        {
+          "sessionId": "S008",
+          "price": 608
+        },
+        {
+          "sessionId": "S009",
+          "price": 610
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "INFY001",
+      "name": "Infosys",
+      "initialPrice": 2170,
+      "currentPrice": 2170,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 2170
+        },
+        {
+          "sessionId": "S002",
+          "price": 2050
+        },
+        {
+          "sessionId": "S003",
+          "price": 2030
+        },
+        {
+          "sessionId": "S004",
+          "price": 2200
+        },
+        {
+          "sessionId": "S005",
+          "price": 2250
+        },
+        {
+          "sessionId": "S006",
+          "price": 2225
+        },
+        {
+          "sessionId": "S007",
+          "price": 1920
+        },
+        {
+          "sessionId": "S008",
+          "price": 2150
+        },
+        {
+          "sessionId": "S009",
+          "price": 2150
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "ITC001",
+      "name": "ITC",
+      "initialPrice": 460,
+      "currentPrice": 460,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 460
+        },
+        {
+          "sessionId": "S002",
+          "price": 380
+        },
+        {
+          "sessionId": "S003",
+          "price": 378
+        },
+        {
+          "sessionId": "S004",
+          "price": 385
+        },
+        {
+          "sessionId": "S005",
+          "price": 385
+        },
+        {
+          "sessionId": "S006",
+          "price": 378
+        },
+        {
+          "sessionId": "S007",
+          "price": 450
+        },
+        {
+          "sessionId": "S008",
+          "price": 445
+        },
+        {
+          "sessionId": "S009",
+          "price": 450
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "InfoEdge001",
+      "name": "Info Edge",
+      "initialPrice": 9090,
+      "currentPrice": 9090,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 9090
+        },
+        {
+          "sessionId": "S002",
+          "price": 8970
+        },
+        {
+          "sessionId": "S003",
+          "price": 9400
+        },
+        {
+          "sessionId": "S004",
+          "price": 9450
+        },
+        {
+          "sessionId": "S005",
+          "price": 9380
+        },
+        {
+          "sessionId": "S006",
+          "price": 8901
+        },
+        {
+          "sessionId": "S007",
+          "price": 8100
+        },
+        {
+          "sessionId": "S008",
+          "price": 8600
+        },
+        {
+          "sessionId": "S009",
+          "price": 9000
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "LIC001",
+      "name": "LIC",
+      "initialPrice": 860,
+      "currentPrice": 860,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 860
+        },
+        {
+          "sessionId": "S002",
+          "price": 760
+        },
+        {
+          "sessionId": "S003",
+          "price": 800
+        },
+        {
+          "sessionId": "S004",
+          "price": 780
+        },
+        {
+          "sessionId": "S005",
+          "price": 776
+        },
+        {
+          "sessionId": "S006",
+          "price": 772
+        },
+        {
+          "sessionId": "S007",
+          "price": 840
+        },
+        {
+          "sessionId": "S008",
+          "price": 850
+        },
+        {
+          "sessionId": "S009",
+          "price": 852
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "Reliance001",
+      "name": "Reliance",
+      "initialPrice": 1040,
+      "currentPrice": 1040,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 1040
+        },
+        {
+          "sessionId": "S002",
+          "price": 1000
+        },
+        {
+          "sessionId": "S003",
+          "price": 995
+        },
+        {
+          "sessionId": "S004",
+          "price": 1010
+        },
+        {
+          "sessionId": "S005",
+          "price": 989
+        },
+        {
+          "sessionId": "S006",
+          "price": 880
+        },
+        {
+          "sessionId": "S007",
+          "price": 1230
+        },
+        {
+          "sessionId": "S008",
+          "price": 1150
+        },
+        {
+          "sessionId": "S009",
+          "price": 1020
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "SBIN001",
+      "name": "SBIN",
+      "initialPrice": 765,
+      "currentPrice": 765,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 765
+        },
+        {
+          "sessionId": "S002",
+          "price": 600
+        },
+        {
+          "sessionId": "S003",
+          "price": 550
+        },
+        {
+          "sessionId": "S004",
+          "price": 610
+        },
+        {
+          "sessionId": "S005",
+          "price": 595
+        },
+        {
+          "sessionId": "S006",
+          "price": 550
+        },
+        {
+          "sessionId": "S007",
+          "price": 740
+        },
+        {
+          "sessionId": "S008",
+          "price": 750
+        },
+        {
+          "sessionId": "S009",
+          "price": 753
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "SunPharma001",
+      "name": "SunPharma",
+      "initialPrice": 1900,
+      "currentPrice": 1900,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 1900
+        },
+        {
+          "sessionId": "S002",
+          "price": 1920
+        },
+        {
+          "sessionId": "S003",
+          "price": 1910
+        },
+        {
+          "sessionId": "S004",
+          "price": 1920
+        },
+        {
+          "sessionId": "S005",
+          "price": 1896
+        },
+        {
+          "sessionId": "S006",
+          "price": 1886
+        },
+        {
+          "sessionId": "S007",
+          "price": 1860
+        },
+        {
+          "sessionId": "S008",
+          "price": 1860
+        },
+        {
+          "sessionId": "S009",
+          "price": 1865
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    },
+    {
+      "id": "Zomato001",
+      "name": "Zomato",
+      "initialPrice": 290,
+      "currentPrice": 290,
+      "brokerId": "B001",
+      "sessionPrices": [
+        {
+          "sessionId": "S001",
+          "price": 290
+        },
+        {
+          "sessionId": "S002",
+          "price": 240
+        },
+        {
+          "sessionId": "S003",
+          "price": 250
+        },
+        {
+          "sessionId": "S004",
+          "price": 245
+        },
+        {
+          "sessionId": "S005",
+          "price": 235
+        },
+        {
+          "sessionId": "S006",
+          "price": 230
+        },
+        {
+          "sessionId": "S007",
+          "price": 260
+        },
+        {
+          "sessionId": "S008",
+          "price": 262
+        },
+        {
+          "sessionId": "S009",
+          "price": 275
+        }
+      ],
+      "isDefaultPriceUpdate": true
+    }
+  ]
+}
